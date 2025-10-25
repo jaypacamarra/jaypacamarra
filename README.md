@@ -5,8 +5,8 @@
 ### About Me
 
 * I like to explore embedded systems, robotics, and operating systems.
-* I'm currently work at SanctuaryAI where I write firmware.
-* In my free time, I think about software tooling, play billiards, and attend my local church.
+* I currently work at SanctuaryAI where I write firmware.
+* In my free time, I think about computers, play billiards, and attend my local church.
 * Feel free to reach out to me for consultation, volunteering opportunities, or for a fun discussion on anything.
 * You can shoot me an email at sjaypacamarra@gmail.com! I'll try to respond as soon as I can.
 <!-- * Please have a look at my [Resume](TODO). Open to feedback and suggestions -->
